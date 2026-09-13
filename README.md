@@ -6,12 +6,19 @@ The program asks the user to enter a single letter grade, then uses a switch sta
 
 Grade	Feedback
 A	Outstanding work! Excellent
+
 B	Very Good
+
 C	Solid Effort
+
 D	You passed
+
 E	Fairly Passed
+
 F	Failed
+
 Anything else	Enter a valid grade (A-F)
+
 Concepts practiced
 switch statements with multiple case labels
 break to prevent fall-through between cases
